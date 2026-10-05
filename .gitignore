@@ -2,3 +2,7 @@ node_modules/
 dist/
 *.log
 .DS_Store
+
+# Personal reading material — keep PDFs out of the repo
+tools/pdfjs-viewer/pdfs/*
+!tools/pdfjs-viewer/pdfs/.gitkeep
